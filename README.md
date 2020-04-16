@@ -1,3 +1,5 @@
+[![Runme](https://svc.runme.io/static/button.svg)](https://runme.io/run?app_id=538ee8fc-1518-479b-b69f-33b539fa531c)
+
 # Beer Distribution Game Simulator
 This project uses [Node.js](https://nodejs.org/en/) + [Socket.io](https://socket.io/) to provide a modern, browser-based, real-time simulation of the [Beer Distribution Game developed by MIT Sloan](https://en.wikipedia.org/wiki/Beer_distribution_game) in the 1960s. This simulation is easy to setup and has been successfuly used to quickly teach people the key principles of supply chain management. The included graphs and tables allow you to rank groups and observe the [bullwhip effect](https://en.wikipedia.org/wiki/Bullwhip_effect). You can try out a [live demo here](http://beerdistribution.herokuapp.com/).
 
